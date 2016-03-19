@@ -1,0 +1,14 @@
+協作平台
+
+功能：
+1.聊天室			==>socket.io
+2.多人共用白板		==>Canvas(繪圖功能) + Websocket（傳送共享繪圖資料）
+3.資源共享		==>
+4.視訊會議		==>WebRTC
+
+技術範疇
+1.Websocket
+2.Canvas 2D Content
+3.WebRTC
+4.Bootstrap
+5.AMD (Async Module Definition)
